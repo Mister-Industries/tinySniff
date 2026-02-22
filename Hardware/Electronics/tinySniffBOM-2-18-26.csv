@@ -1,0 +1,11 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+1uF,MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS,"C1, C2, C5, C6, C9, C10",1206_Passive_Capacitor,C_1uF_1206,6
+100nF,100nF ±5% 50V C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS,"C3, C4, C7, C8, C11, C12",1206_Passive_Capacitor,C_47nF_1206,6
+AP2112K-2.6TRG1,600mA 1.8V LDO Regulator Enable SOT23-5,IC1,SOT95P285X140-5N,CMP-031-00006-1,1
+AP2112K-1.8TRG1,600mA 1.8V LDO Regulator Enable SOT23-5,IC2,SOT95P285X140-5N,CMP-031-00006-1,1
+AP2112K-2.5TRG1,600mA 1.8V LDO Regulator Enable SOT23-5,IC3,SOT95P285X140-5N,CMP-031-00006-1,1
+100KOhm,100kO ±1% 0.25W ±100ppm/? 1206 Chip Resistor - Surface Mount RoHS,"R1, R3, R5",1206_Passive_Resitor,R_100KOhm_1206,3
+4.7KOhm,4.7kO ±1% 0.25W ±100ppm/? 1206 Chip Resistor - Surface Mount RoHS,"R2, R4, R6",1206_Passive_Resitor,R_4.7k_1206,3
+GM-402B,Generic MEMS footprint for GM series devices from Winsen,S1,QFN127P500X500X155_HS-9N,CMP-010-00024-1,1
+GM-602B,Generic MEMS footprint for GM series devices from Winsen,S2,QFN127P500X500X155_HS-9N,CMP-010-00024-1,1
+GMV-2021B,Generic MEMS footprint for GM series devices from Winsen,S3,QFN127P500X500X155_HS-9N,CMP-010-00024-1,1
