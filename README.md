@@ -22,7 +22,7 @@ Measures Methane, Hydrogen, and Hydrogen Sulfide. Great for air-quality and envi
 
 tinySniff uses the following tinyCore GPIO pins. These are active whenever the HAT is mounted, so avoid assigning them to other peripherals in your own sketches.
 
-### MEMS Sensors)
+### MEMS Sensor Pinouts
 
 | Signal | GPIO | Description |
 |--------|------|-------------|
